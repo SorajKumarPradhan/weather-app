@@ -111,7 +111,7 @@ function App() {
           >
             <h2>Temperature: {weather.current.temp_c}ºC</h2>
             <h2>Date: {weather.location.localtime}</h2>
-            <h2>soraj kumar pradhan</h2>
+            <h2>soraj kumar</h2>
           </div>
         </div>
       )}
